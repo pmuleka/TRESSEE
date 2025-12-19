@@ -1,0 +1,8 @@
+# TRESSÉ - Hair Salon Appointment Management System
+# Module 6 Final Project
+# Student Name: Syntiche Tshimanga
+# Course: __________
+# Date: __________
+
+import tkinter as tk
+from tkinter import ttk
